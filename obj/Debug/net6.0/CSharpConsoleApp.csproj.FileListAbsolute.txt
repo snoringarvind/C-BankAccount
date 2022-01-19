@@ -1,0 +1,15 @@
+D:\ArvindDir\CSharpConsoleAPp\obj\Debug\net6.0\CSharpConsoleApp.csproj.AssemblyReference.cache
+D:\ArvindDir\CSharpConsoleAPp\obj\Debug\net6.0\CSharpConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ArvindDir\CSharpConsoleAPp\obj\Debug\net6.0\CSharpConsoleApp.AssemblyInfoInputs.cache
+D:\ArvindDir\CSharpConsoleAPp\obj\Debug\net6.0\CSharpConsoleApp.AssemblyInfo.cs
+D:\ArvindDir\CSharpConsoleAPp\obj\Debug\net6.0\CSharpConsoleApp.csproj.CoreCompileInputs.cache
+D:\ArvindDir\CSharpConsoleAPp\bin\Debug\net6.0\CSharpConsoleApp.exe
+D:\ArvindDir\CSharpConsoleAPp\bin\Debug\net6.0\CSharpConsoleApp.deps.json
+D:\ArvindDir\CSharpConsoleAPp\bin\Debug\net6.0\CSharpConsoleApp.runtimeconfig.json
+D:\ArvindDir\CSharpConsoleAPp\bin\Debug\net6.0\CSharpConsoleApp.dll
+D:\ArvindDir\CSharpConsoleAPp\bin\Debug\net6.0\ref\CSharpConsoleApp.dll
+D:\ArvindDir\CSharpConsoleAPp\bin\Debug\net6.0\CSharpConsoleApp.pdb
+D:\ArvindDir\CSharpConsoleAPp\obj\Debug\net6.0\CSharpConsoleApp.dll
+D:\ArvindDir\CSharpConsoleAPp\obj\Debug\net6.0\ref\CSharpConsoleApp.dll
+D:\ArvindDir\CSharpConsoleAPp\obj\Debug\net6.0\CSharpConsoleApp.pdb
+D:\ArvindDir\CSharpConsoleAPp\obj\Debug\net6.0\CSharpConsoleApp.genruntimeconfig.cache
